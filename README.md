@@ -1,7 +1,9 @@
 # Action Roguelike Game (Project)
 
 A Base Project to Build a online Wizard Action Game
-
+# Project View
+![2](Assets/2.png)
+![1](Assets/1.png)
 # Project Features
 - Third-person Action Character Movement
 - **Enhanced Input**
